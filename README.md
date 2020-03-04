@@ -2,6 +2,8 @@ Repositary Details:
 ==================
 
 A contact book is for saving a contact’s details, such as name, address, phone number, and email address. Using menu options the user can delete contacts, update contact information, and list saved contacts.
+Users contacts will be stored on Google Drive of that user.
+User authentication also added to signin with respect to user.
 
 Follow the steps for successfull run:
 
